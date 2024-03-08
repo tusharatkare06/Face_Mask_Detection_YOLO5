@@ -1,4 +1,4 @@
-# pROJECT
+# Project
 # Yolov5_Face_Mask_Detection
 ![d8ce0480-9ac0-11ea-8062-809a1b8bfab6](https://github.com/tusharatkare06/Face_Mask_Detection_YOLO5/assets/151806937/7d49089a-9287-4f2a-9aac-5a7a13fa2cfd)
 
