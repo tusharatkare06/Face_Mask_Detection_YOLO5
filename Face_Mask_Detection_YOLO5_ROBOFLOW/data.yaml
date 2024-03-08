@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Mask', 'No_Mask']
+
+roboflow:
+  workspace: facemaskdetection-iwtpp
+  project: face_mask_detection-wvf80
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/facemaskdetection-iwtpp/face_mask_detection-wvf80/dataset/1
